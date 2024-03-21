@@ -5,6 +5,7 @@
 ---
 ## Future:
 * Put the video on my YouTube channel instead of my dad's and add thumbnail + subtitles + editing
+* Add Acctions, Projects, Security and other GitHub Features to this project
 * Improve the video, make it longer and explain better
 * Get a better understanding of firebase and add more features based on that understanding
 * Add screen shots with instructions as a supplement to the videos and explain my app
