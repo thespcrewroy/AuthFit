@@ -4,6 +4,7 @@
 [![Alt text](https://img.youtube.com/vi/WTCIIdSxvLg/0.jpg)](https://www.youtube.com/watch?v=WTCIIdSxvLg)
 ---
 ## Future:
+* Put the video on my YouTube channel instead of my dad's
 * Improve the video, make it longer and explain better
 * Get a better understanding of firebase and add more features based on that understanding
 * Add screen shots with instructions as a supplement to the videos and explain my app
