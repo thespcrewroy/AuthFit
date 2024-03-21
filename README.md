@@ -1,1 +1,21 @@
 [![Alt text](https://img.youtube.com/vi/WTCIIdSxvLg/0.jpg)](https://www.youtube.com/watch?v=WTCIIdSxvLg)
+---
+## Future:
+* Improve the video, make it longer and explain better
+* Get a better understanding of firebase and add more features based on that understanding
+* Add screen shots with instructions as a supplement to the videos and explain my app
+* Launch my app on the appstore and link it here
+* Add Features:
+    * Add a splash screen
+    * Add a loading screen
+    * Add a welcome screen
+    * Add a home screen
+    * Implement fitness functionality
+    * Implement recepie functionality
+    * Implement store functionality
+    * Finish delete account function
+    * Add forgot password functionality
+    * Add a settings screen
+    * Add a google/facebook/other sign-in buttons/functionalities
+    * Look at projects doc + other people's nmix midterm/final projects for inspration
+    * Extract/Refactor/ButtonStyle Nav Links, Buttons, and more (put in components folder)
