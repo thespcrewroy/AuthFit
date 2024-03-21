@@ -1,3 +1,6 @@
+# AuthFit
+---
+## Video Demonstration:
 [![Alt text](https://img.youtube.com/vi/WTCIIdSxvLg/0.jpg)](https://www.youtube.com/watch?v=WTCIIdSxvLg)
 ---
 ## Future:
@@ -5,6 +8,7 @@
 * Get a better understanding of firebase and add more features based on that understanding
 * Add screen shots with instructions as a supplement to the videos and explain my app
 * Launch my app on the appstore and link it here
+* Improve readme quality by looking at other people's Readme's
 * Add Features:
     * Add a splash screen
     * Add a loading screen
