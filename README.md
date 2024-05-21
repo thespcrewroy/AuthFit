@@ -26,4 +26,4 @@
     * Add a google/facebook/other sign-in buttons/functionalities
     * Look at projects doc + other people's nmix midterm/final projects for inspration
     * Extract/Refactor/ButtonStyle Nav Links, Buttons, and more (put in components folder)
-    * Add the option to link google, facebook, or linkedin or whatever accounts
+    * Add the option to sign up with google, facebook, or linkedin or whatever accounts
